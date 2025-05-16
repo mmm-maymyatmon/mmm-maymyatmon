@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with **5 years of exp
 - 🎨 **Creative Problem Solver**: I love transforming design concepts into functional, visually stunning interfaces.
 - 🌱 **Continuous Learner**: Always exploring modern frontend tools and frameworks to stay ahead of the curve.
 - 🎯 **Goal**: To build seamless, high-performing, and accessible web experiences.
-- 💖 **Favorite Framework**: React
+- 💖 **Favorite Framework**: React, Next, Express
 
 ---
 
@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with **5 years of exp
 - **State Management**: Redux Toolkit, Zustand  
 - **Data Fetching**: React Query, Axios  
 - **Styling**: Tailwind CSS, SASS, Styled Components  
-- **Backend Tools**: Node.js, Express.js, MongoDB, RESTful APIs  
+- **Backend Tools**: Node.js, Express.js, Laravel, PostgreSQL, MongoDB, RESTful APIs  
 - **Other Tools**: Stripe, Prisma, Firebase, Vite  
 - **Design Tools**: Figma, Adobe XD  
-- **Version Control**: Git, GitHub  
+- **Version Control**: Git, GitHub, Bitbucket
 
 ---
 
@@ -55,4 +55,4 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with **5 years of exp
 ---
 
 Thank you for visiting my profile!  
-Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing! 🚀
+Please feel free to explore my repositories and reach out to me. Let's collaborate and create something amazing! 🚀
