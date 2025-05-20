@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with **5 years of exp
 ## ✨ Featured Projects
 
 - 🔹 [**Furniture (Frontend)**](https://github.com/mmm-maymyatmon/furniture)  
-  A modern furniture e-commerce website built with React, Shadcn, TanStack, and Zustand.
+  A modern furniture e-commerce website built with React, Shadcn, RESTful APIs, TanStack, and Zustand.
 
 - 🔹 [**Furniture Backend**](https://github.com/mmm-maymyatmon/furniture-backend)  
   The backend API for the Furniture project with Express.js, Prisma, Docker, Redis, and PostgreSQL.
