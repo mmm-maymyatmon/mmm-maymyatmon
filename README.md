@@ -1,6 +1,5 @@
 # 👋 Hello, I'm May
 
-Welcome to my GitHub profile! I'm a **Frontend Developer** with **5 years of experience** in web design and development. I’m passionate about building visually appealing and user-friendly websites that deliver impactful digital experiences.
 
 ---
 
